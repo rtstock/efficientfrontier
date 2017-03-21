@@ -1,0 +1,10 @@
+"C:\Anaconda\python.exe" "C:\Batches\AutomationProjects\EfficientFrontier\code_using_yahoofinance_test01\py\execute_pullreturnsandloadtodatabase.py" "ST" "2004-12-31" "daily" "Yahoo"
+"C:\Anaconda\python.exe" "C:\Batches\AutomationProjects\EfficientFrontier\code_using_yahoofinance_test01\py\execute_pullreturnsandloadtodatabase.py" "STC" "2004-12-31" "daily" "Yahoo"
+"C:\Anaconda\python.exe" "C:\Batches\AutomationProjects\EfficientFrontier\code_using_yahoofinance_test01\py\execute_pullreturnsandloadtodatabase.py" "STL" "2004-12-31" "daily" "Yahoo"
+"C:\Anaconda\python.exe" "C:\Batches\AutomationProjects\EfficientFrontier\code_using_yahoofinance_test01\py\execute_pullreturnsandloadtodatabase.py" "STRZA" "2004-12-31" "daily" "Yahoo"
+"C:\Anaconda\python.exe" "C:\Batches\AutomationProjects\EfficientFrontier\code_using_yahoofinance_test01\py\execute_pullreturnsandloadtodatabase.py" "SYF" "2004-12-31" "daily" "Yahoo"
+"C:\Anaconda\python.exe" "C:\Batches\AutomationProjects\EfficientFrontier\code_using_yahoofinance_test01\py\execute_pullreturnsandloadtodatabase.py" "SYK" "2004-12-31" "daily" "Yahoo"
+"C:\Anaconda\python.exe" "C:\Batches\AutomationProjects\EfficientFrontier\code_using_yahoofinance_test01\py\execute_pullreturnsandloadtodatabase.py" "SYY" "2004-12-31" "daily" "Yahoo"
+"C:\Anaconda\python.exe" "C:\Batches\AutomationProjects\EfficientFrontier\code_using_yahoofinance_test01\py\execute_pullreturnsandloadtodatabase.py" "TCEHY" "2004-12-31" "daily" "Yahoo"
+"C:\Anaconda\python.exe" "C:\Batches\AutomationProjects\EfficientFrontier\code_using_yahoofinance_test01\py\execute_pullreturnsandloadtodatabase.py" "TECH" "2004-12-31" "daily" "Yahoo"
+::pause
